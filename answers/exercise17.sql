@@ -1,0 +1,1 @@
+UPDATE COLUMN City='Edinburgh' WHERE Country='Scotland';
